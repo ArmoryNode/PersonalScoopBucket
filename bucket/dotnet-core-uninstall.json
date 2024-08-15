@@ -10,7 +10,6 @@
         }
     },
     "bin": "dotnet-core-uninstall.exe",
-    "extract_dir": "dotnet-core-uninstall",
     "checkver": {
         "github": "https://github.com/dotnet/cli-lab"
     },
