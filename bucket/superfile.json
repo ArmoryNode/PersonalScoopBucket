@@ -15,9 +15,7 @@
             "extract_dir": "dist/superfile-windows-v1.1.4-arm64"
         }
     },
-    "checkver": {
-        "github": "https://github.com/yorukot/superfile"
-    },
+    "checkver": "github",
     "bin": "spf.exe",
     "autoupdate": {
         "architecture": {
