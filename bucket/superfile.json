@@ -6,12 +6,12 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/yorukot/superfile/releases/download/v1.1.7.1/superfile-windows-v1.1.7.1-amd64.zip",
-            "hash": "bc61cf9a3f7014ec32a7c435877029274a2fc08ab7a09035b1defb401c653717",
+            "hash": "4087AEDD461942B0EBFA767D5BA1803D35E4EF2FBC211FC5BD9D4061D59E0F76",
             "extract_dir": "dist/superfile-windows-v1.1.7.1-amd64"
         },
         "arm64": {
             "url": "https://github.com/yorukot/superfile/releases/download/v1.1.7.1/superfile-windows-v1.1.7.1-arm64.zip",
-            "hash": "bc2f93c9c5a27a856910730b43bad2e759f23f093b7d6786f12051a1bab706e7",
+            "hash": "9B95BB41A4A003F39795347B3A9EA5E43DAE7A02E950E95F92AEB15C180C9831",
             "extract_dir": "dist/superfile-windows-v1.1.7.1-arm64"
         }
     },
