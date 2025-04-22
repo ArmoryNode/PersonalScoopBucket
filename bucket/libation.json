@@ -1,0 +1,19 @@
+{
+    "version": "12.2.0",
+    "description": "Libation: Liberate your Library",
+    "homepage": "https://github.com/rmcrackan/Libation",
+    "license": "GPL-3.0-only",
+    "url": "https://github.com/rmcrackan/Libation/releases/download/v12.2.0/Libation.12.2.0-windows-chardonnay.zip",
+    "hash": "d4cde97b6b47082778b1e15a4ab5a3218c865b8f79e4cd76f9e72ec75fe470bb",
+    "checkver": {
+        "github": "https://github.com/rmcrackan/Libation"
+    },
+    "bin": "Libation.exe",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/rmcrackan/Libation/releases/download/v$version/Libation.$version-windows-chardonnay.zip"
+            }
+        }
+    }
+}
