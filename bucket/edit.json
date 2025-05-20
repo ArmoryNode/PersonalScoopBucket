@@ -23,7 +23,7 @@
                 "url": "https://github.com/microsoft/edit/releases/download/v$version/edit-$version-x86_64-windows.zip"
             },
             "arm64": {
-                "url": "https://github.com/microsoft/edit/releases/download/v$version/edit-$verison-aarch64-windows.zip"
+                "url": "https://github.com/microsoft/edit/releases/download/v$version/edit-$version-aarch64-windows.zip"
             }
         }
     }
